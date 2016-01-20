@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessbilityCustom</string>
+    <string name="description">This service records pop ups sent by your mobile operator,and saves in Aeris App. It is absolutely safe to use.</string>
+</resources>
